@@ -36,7 +36,7 @@
     row-gap: 45px;
     column-gap: 50px;
     margin: 0 auto;
-    padding-top: 72px;
+    padding: 72px 0;
     width: 775px;
     justify-content: space-between;
     user-select: none; 
